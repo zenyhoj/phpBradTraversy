@@ -1,0 +1,9 @@
+Data Types:
+String
+Integer
+Floats
+Booleans
+Arrays
+Objects
+NULL
+Resource
