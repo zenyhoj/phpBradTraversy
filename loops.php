@@ -55,17 +55,31 @@ foreach($people as $person) {
 */
 
 // Associative Array
-$people = array(
+// $divManagers = array(
 
-	'Joe' => 'joe.balingit@gmail.com',
-	'Heberjune' => 'heberjune@gmail.com'
+// 	'Division A' => 'Janette R. Aloyon',
+// 	'Division B' => 'Engr. Salvador S. Chan, Jr'
+
+// );
+
+// //$person as key, and $emailAddress as value
+// foreach($divManagers as $department => $name) {
+
+// 	echo $department . ': ' . $name;
+// 	echo '<br>';
+// }
+
+$cars = array(
+
+	'Toyota' => 1934,
+	'Honda'=> 1845,
+	'BMW' => 1920
 
 );
 
-//$person as key, and $emailAddress as value
-foreach($people as $person => $emailAddress) {
-
-	echo $person . ': ' . $emailAddress;
+foreach ($cars as $car => $year) {
+	# code...
+	echo $car . ' was founded on ' .$year;
 	echo '<br>';
 }
 
