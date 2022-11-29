@@ -7,3 +7,6 @@ Arrays
 Objects
 NULL
 Resource
+
+Loops: 
+https://www.youtube.com/watch?v=5ggUfM6mvSk&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=5

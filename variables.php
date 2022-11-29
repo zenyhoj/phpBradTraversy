@@ -10,5 +10,6 @@ echo $firstname . ' ' . $lastname;
 define('GREETING', 'Hello everyone');
 echo GREETING;
 
+
 ?>
 
