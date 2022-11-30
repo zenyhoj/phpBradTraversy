@@ -10,3 +10,5 @@ Resource
 
 Loops: 
 https://www.youtube.com/watch?v=5ggUfM6mvSk&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=5
+
+dates: https://www.youtube.com/watch?v=EHfr-edosmA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=8
