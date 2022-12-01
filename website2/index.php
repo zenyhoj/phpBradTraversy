@@ -13,7 +13,7 @@
 
 <div class="container">
 
-<h3 class="mb-4 mt-4">System and File Info</h3>
+<h3 class="text-center mb-4 mt-4">System and File Info</h3>
 
 <?php if ($server): ?>
 
@@ -36,7 +36,7 @@
 
 <!-- Client Info -->
 
-<h3 class="mb-4 mt-4">Client Info</h3>
+<h3 class="text-center mb-4 mt-4">Client Info</h3>
 <?php if ($client): ?>
 
 <ul class="list-group">
