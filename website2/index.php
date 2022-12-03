@@ -1,5 +1,7 @@
 
 <?php include 'server_info.php'; ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,13 +56,7 @@
 
 <?php endif; ?>
 
-
 </div>
-
-
-
-
-
-    
+  
 </body>
 </html>
